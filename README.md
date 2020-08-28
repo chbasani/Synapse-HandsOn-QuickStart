@@ -4,6 +4,22 @@ Synapse Get Started Guide
 Please follow the documents in sequence to explore the features and functionalities of Synapse. 
 Click the document to start with, download the raw document. Follow step by step directions in the document.
 
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Workspace
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Lake-Permissions-,-Spark-pool
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-exploration
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Spark-process-,-modeling-,-AutoML
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Factory---Copy-,-Data-Flow-,-ETL-process
+
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
+
+
+
 Synapse Analytics
 Capabilities for Exploratory environment
 1.	Data 
