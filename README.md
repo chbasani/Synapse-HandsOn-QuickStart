@@ -1,10 +1,7 @@
 # Synapse-HandsOn-QuickStart
 Synapse Get Started Guide
 ----------------------------------------------------------------------------------------------------
-The document could help to spin up a Synapse workspace and try different capabilities for a user who is :
-
-
-Customer 
+The document could help to spin up a Synapse workspace and try different capabilities for a user who is : 
 
     a.	Citizen Data Scientist 
 
