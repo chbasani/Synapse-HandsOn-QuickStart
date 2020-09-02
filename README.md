@@ -57,8 +57,7 @@ PowerBI workspace and create a dashboard :
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
 ----------------------------------------------------------------------------------------------------
-(  Refer to the help documents in this folder : 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/HelpDocs
+(  Refer to the help documents in this folder :  https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/HelpDocs
 
 The same content as the above weblinks is in two docx files: Synapse Demo Hands-on 1 & Synapse Demo Hands-on 2 .
 You can click the document links -> download the raw document -> Follow step by step directions in the document.)
@@ -156,7 +155,8 @@ iii.	Auto ML: No-code experience
 
 9.	Power BI 
 
-    a.	Connect to a PBI workspace and develop insights/visualizations
+    a.	Connect to a PBI workspace 
+    b.  Develop insights/visualizations
 
 10.	Security
 
@@ -203,5 +203,5 @@ iii.	Auto ML: No-code experience
 
         iv.	Nonclustered indexes
 
-    v.	Ordered Clustered Columnstore Index
+        v.	Ordered Clustered Columnstore Index
 
