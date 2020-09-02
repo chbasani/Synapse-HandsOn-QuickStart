@@ -1,31 +1,41 @@
 # Synapse-HandsOn-QuickStart
 Synapse Get Started Guide
-
+----------------------------------------------------------------------------------------------------
 Please follow the links in sequence to explore the features and functionalities of Synapse. 
 
 
 Overview on technical capabilities : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki
 
 Creation of a workspace : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Workspace
 
 Creation of a Data lake and using it for Synapse workspace : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Lake-Permissions-,-Spark-pool
 
 Data exploration in Synpase workspace : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-exploration
 
 Spark processing for file formats  , Regression analysis , AutoML experiment: 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Spark-process-,-modeling-,-AutoML
 
 Data Factory capabilities of Copy , Data Flow and publish/exeucte a pipeline : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Factory---Copy-,-Data-Flow-,-ETL-process
 
 PowerBI workspace and create a dashboard : 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
+----------------------------------------------------------------------------------------------------
 ( The same content as the above weblinks is in the docx format . You can click the document to start with, download the raw document. Follow step by step directions in the document.)
+
+----------------------------------------------------------------------------------------------------
 
 Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
