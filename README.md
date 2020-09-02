@@ -4,24 +4,24 @@ Synapse Get Started Guide
 Please follow the documents in sequence to explore the features and functionalities of Synapse. 
 Click the document to start with, download the raw document. Follow step by step directions in the document.
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki
+Overview on technical capabilities : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Workspace
+Creation of a workspace : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Workspace
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Lake-Permissions-,-Spark-pool
+Creation of a Data lake and using it for Synapse workspace : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Lake-Permissions-,-Spark-pool
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-exploration
+Data exploration in Synpase workspace : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-exploration
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Spark-process-,-modeling-,-AutoML
+Spark processing for file formats  , Regression analysis , AutoML experiment: https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Spark-process-,-modeling-,-AutoML
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Factory---Copy-,-Data-Flow-,-ETL-process
+Data Factory capabilities of Copy , Data Flow and publish/exeucte a pipeline : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Data-Factory---Copy-,-Data-Flow-,-ETL-process
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
+PowerBI workspace and create a dashboard : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
 
 
 Synapse Analytics
-Capabilities for Exploratory environment
+Capabilities for Analytic / Exploratory environment
 1.	Data 
 a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
 b.	Realtime Streaming data – Synapse Link for Cosmos DB
