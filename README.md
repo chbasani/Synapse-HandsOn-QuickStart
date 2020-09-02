@@ -1,15 +1,28 @@
 # Synapse-HandsOn-QuickStart
 Synapse Get Started Guide
 ----------------------------------------------------------------------------------------------------
-The document could help Citizen Data Scientist or Data Developer or Data Analyst to spin up a Synapse workspace and try different capabilities. 
-(They can use the files in the reposiotry as needed for the demo in the links below
+The document could help to spin up a Synapse workspace and try different capabilities for a user who is :
+
+Citizen Data Scientist 
+
+Data Developer 
+
+Data Analyst  
+(
+They can use the files in the reposiotry as needed for the demo in the links below
 
 Scripts 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
 
-and the Input Datasets 
+Input Datasets 
+
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
 )
+
+
+----------------------------------------------------------------------------------------------------
+
 
 Please follow the links in sequence to explore the features and functionalities of Synapse. 
 
