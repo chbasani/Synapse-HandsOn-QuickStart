@@ -4,7 +4,7 @@ Synapse Get Started Guide
 The document could help to spin up a Synapse workspace and try different capabilities for a user who is :
 
 
-1.Data 
+Customer 
 
     a.	Citizen Data Scientist 
 
