@@ -108,10 +108,10 @@ Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
     e.	Schedule in the Runtime environment/ Trigger 
 
-f.	Future roadmap – 
-i.	CI/CD - DevOps / Git enabled in future (already available in Data Factory)
-ii.	Python Kernel 
-iii.	Auto ML: No-code experience
+    f.	Future roadmap – 
+                i.	CI/CD - DevOps / Git enabled in future (already available in Data Factory)
+                ii.	Python Kernel 
+                iii.	Auto ML: No-code experience
 
 5.	Data Manipulation 
 
