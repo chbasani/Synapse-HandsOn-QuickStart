@@ -6,11 +6,11 @@ The document could help to spin up a Synapse workspace and try different capabil
 
 1.Data 
 
-    a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
+    a.	Citizen Data Scientist 
 
-    b.	Realtime Streaming data – Synapse Link for Cosmos DB
+    b.	Data Developer 
 
-    c.	Custom Data Connectors /activity
+    c.	Data Analyst
   
 
 Citizen Data Scientist 
