@@ -68,20 +68,21 @@ Synapse Analytics - Capabilities for Analytic / Exploratory environment
   b.	Realtime Streaming data – Synapse Link for Cosmos DB
 
   c.	Custom Data Connectors /activity
+  
 
 2.	File formats supported – structured, unstructured
 
 3.	Explore data in data source 
 
- a.	Select top
+    a.	Select top
 
- b.	SQL on demand 
+    b.	SQL on demand 
 
- c.	Open rowset
+    c.	Open rowset
 
- d.	Bulk load
+    d.	Bulk load
 
-e.	Load data with spark notebook
+    e.	Load data with spark notebook
 
 4.	Coding experience 
 
