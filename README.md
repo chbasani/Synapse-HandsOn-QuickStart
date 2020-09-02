@@ -33,7 +33,15 @@ PowerBI workspace and create a dashboard :
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
 ----------------------------------------------------------------------------------------------------
-( The same content as the above weblinks is in the docx format . You can click the document to start with, download the raw document. Follow step by step directions in the document.)
+( The same content as the above weblinks is in two docx format files Synapse Demo Hands-on 1 & Synapse Demo Hands-on 2 .
+You can click the document links , download the raw document. Follow step by step directions in the document.)
+
+You can see more documents in the file list above.
+4. Synapse Demo Hands-on 1.docx
+4. Synapse Demo Hands-on 2.docx
+4a. Custom component for Data factory.docx
+4b. Manage Hub.docx
+4c. Security and Access Controls
 
 ----------------------------------------------------------------------------------------------------
 
