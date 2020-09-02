@@ -4,9 +4,11 @@ Synapse Get Started Guide
 The document could help Citizen Data Scientist or Data Developer or Data Analyst to spin up a Synapse workspace and try different capabilities. 
 (They can use the files in the reposiotry as needed for the demo in the links below
 
-Scripts https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
+Scripts 
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
 
-and the Input Datasets https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
+and the Input Datasets 
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
 )
 
 Please follow the links in sequence to explore the features and functionalities of Synapse. 
@@ -42,7 +44,8 @@ PowerBI workspace and create a dashboard :
 https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
 ----------------------------------------------------------------------------------------------------
-(  Refer to the help documents in this folder : https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/HelpDocs
+(  Refer to the help documents in this folder : 
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/HelpDocs
 
 The same content as the above weblinks is in two docx files: Synapse Demo Hands-on 1 & Synapse Demo Hands-on 2 .
 You can click the document links -> download the raw document -> Follow step by step directions in the document.)
@@ -60,23 +63,23 @@ Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
 1.	Data 
 
-a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
+  a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
 
-b.	Realtime Streaming data – Synapse Link for Cosmos DB
+  b.	Realtime Streaming data – Synapse Link for Cosmos DB
 
-c.	Custom Data Connectors /activity
+  c.	Custom Data Connectors /activity
 
 2.	File formats supported – structured, unstructured
 
 3.	Explore data in data source 
 
-a.	Select top
+ a.	Select top
 
-b.	SQL on demand 
+ b.	SQL on demand 
 
-c.	Open rowset
+ c.	Open rowset
 
-d.	Bulk load
+ d.	Bulk load
 
 e.	Load data with spark notebook
 
