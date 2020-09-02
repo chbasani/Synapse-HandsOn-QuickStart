@@ -10,11 +10,6 @@ The document could help to spin up a Synapse workspace and try different capabil
     c.	Data Analyst
   
 
-Citizen Data Scientist 
-
-Data Developer 
-
-Data Analyst  
 (
 They can use the files in the reposiotry as needed for the demo in the links below
 
