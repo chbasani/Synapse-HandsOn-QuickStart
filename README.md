@@ -62,6 +62,7 @@ You can see more documents in the file list above.
 Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
 1.Data 
+
   a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
 
   b.	Realtime Streaming data – Synapse Link for Cosmos DB
