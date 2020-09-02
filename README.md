@@ -3,6 +3,16 @@ Synapse Get Started Guide
 ----------------------------------------------------------------------------------------------------
 The document could help to spin up a Synapse workspace and try different capabilities for a user who is :
 
+
+1.Data 
+
+    a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
+
+    b.	Realtime Streaming data – Synapse Link for Cosmos DB
+
+    c.	Custom Data Connectors /activity
+  
+
 Citizen Data Scientist 
 
 Data Developer 
