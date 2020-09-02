@@ -11,7 +11,7 @@ The document could help to spin up a Synapse workspace and try different capabil
   
 
 (
-They can use the files in the reposiotry as needed for the demo in the links below
+They can use the files in the repository as needed for the demo in the links below
 
 Scripts 
 
