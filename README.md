@@ -1,8 +1,8 @@
 # Synapse-HandsOn-QuickStart
 Synapse Get Started Guide
 
-Please follow the documents in sequence to explore the features and functionalities of Synapse. 
-Click the document to start with, download the raw document. Follow step by step directions in the document.
+Please follow the links in sequence to explore the features and functionalities of Synapse. 
+
 
 Overview on technical capabilities : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki
 
@@ -18,10 +18,10 @@ Data Factory capabilities of Copy , Data Flow and publish/exeucte a pipeline : h
 
 PowerBI workspace and create a dashboard : https://github.com/chbasani/Synapse-HandsOn-QuickStart/wiki/Power-BI
 
+( The same content as the above weblinks is in the docx format . You can click the document to start with, download the raw document. Follow step by step directions in the document.)
 
+Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
-Synapse Analytics
-Capabilities for Analytic / Exploratory environment
 1.	Data 
 a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
 b.	Realtime Streaming data – Synapse Link for Cosmos DB
