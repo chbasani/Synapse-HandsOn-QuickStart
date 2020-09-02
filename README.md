@@ -63,11 +63,11 @@ Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
 1.Data 
 
-  a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
+    a.	Configure linked services (Preview data , schema  - Json format , csv etc) 
 
-  b.	Realtime Streaming data – Synapse Link for Cosmos DB
+    b.	Realtime Streaming data – Synapse Link for Cosmos DB
 
-  c.	Custom Data Connectors /activity
+    c.	Custom Data Connectors /activity
   
 
 2.	File formats supported – structured, unstructured
@@ -86,15 +86,15 @@ Synapse Analytics - Capabilities for Analytic / Exploratory environment
 
 4.	Coding experience 
 
-a.	Import / Export / Clone
+    a.	Import / Export / Clone
 
-b.	Integration with Visual Studio, SSMS, Synapse workspace
+    b.	Integration with Visual Studio, SSMS, Synapse workspace
 
-c.	Debug 
+    c.	Debug 
 
-d.	Process execution status 
+    d.	Process execution status 
 
-e.	Schedule in the Runtime environment/ Trigger 
+    e.	Schedule in the Runtime environment/ Trigger 
 
 f.	Future roadmap – 
 i.	CI/CD - DevOps / Git enabled in future (already available in Data Factory)
@@ -103,67 +103,67 @@ iii.	Auto ML: No-code experience
 
 5.	Data Manipulation 
 
-a.	SQL 
+    a.	SQL 
 
-b.	Spark code
+    b.	Spark code
 
-c.	ETL with Data Factory (No-code, Low-code)
+    c.	ETL with Data Factory (No-code, Low-code)
 
-d.	Virtual Datawarehouse
+    d.	Virtual Datawarehouse
 
 6.	SQL capabilities  
 
-a.	Ansi SQL
+    a.	Ansi SQL
 
-b.	On- Demand SQL 
+    b.	On- Demand SQL 
 
-c.	CETAS
+    c.	CETAS
 
-d.	Materialized views
+    d.	Materialized views
 
-e.	Result-set caching
+    e.	Result-set caching
 
 7.	Spark capabilities
 
-a.	Create a spark notebook for the SQL table read   
+    a.	Create a spark notebook for the SQL table read   
 
-b.	Python libraries for modeling 
+    b.	Python libraries for modeling 
 
-c.	Auto ML
+    c.	Auto ML
 
-d.	ONNX – to move the model across different platforms 
+    d.	ONNX – to move the model across different platforms 
 
-e.	Time travel for delta lake using spark
+    e.	Time travel for delta lake using spark
 
 8.	Data Factory
 
-a.	Reading a data source
+    a.	Reading a data source
 
-b.	Orchestration- pipelines and execution
+    b.	Orchestration- pipelines and execution
 
 9.	Power BI 
 
-a.	Connect to a PBI workspace and develop insights/visualizations
+    a.	Connect to a PBI workspace and develop insights/visualizations
 
 10.	Security
 
-a.	Managed VNets
+    a.	Managed VNets
 
-b.	IP firewall rules
+    b.	IP firewall rules
 
-c.	Endpoint
+    c.	Endpoint
 
-d.	Threat detection
+    d.	Threat detection
 
-e.	Row Level security 
+    e.	Row Level security 
 
-f.	Column level security
+    f.	Column level security
 
-g.	Dynamic data masking
+    g.	Dynamic data masking
 
-h.	Transparent Data Encryption
+    h.	Transparent Data Encryption
 
-i.	Synapse Roles – Workspace admin, sql admin, spark admin
+    i.	Synapse Roles – Workspace admin, sql admin, spark admin
 
 *Active directory / single sign on 
 *Underlying access permissions for the data lake 
@@ -174,21 +174,21 @@ i.	Synapse Roles – Workspace admin, sql admin, spark admin
 
 13.	SQL Distribution 
 
-a.	HASH distributed
+    a.	HASH distributed
 
-b.	Round Robin
+    b.	Round Robin
 
-c.	Replicated
+    c.	Replicated
 
-d.	Index 
+    d.	Index 
 
-i.	Clustered Columnstore Index 
+        i.	Clustered Columnstore Index 
 
-ii.	Clustered Index 
+        ii.	Clustered Index 
 
-iii.	Heap 
+        iii.	Heap 
 
-iv.	Nonclustered indexes
+        iv.	Nonclustered indexes
 
-v.	Ordered Clustered Columnstore Index
+    v.	Ordered Clustered Columnstore Index
 
