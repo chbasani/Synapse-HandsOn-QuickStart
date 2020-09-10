@@ -15,7 +15,7 @@ They can use the files in the repository as needed for the demo in the links bel
 
 Scripts 
 
-https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Input%20Datasets
+https://github.com/chbasani/Synapse-HandsOn-QuickStart/tree/master/Scripts
 
 Input Datasets 
 
